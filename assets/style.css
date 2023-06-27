@@ -1,5 +1,5 @@
 body {
-	font-size: 80%;
+	font-size: 100%;
 	font-family: "Courier New", Courier, monospace;
 	letter-spacing: 0.15em;	
 	background-color: #efefef;}
@@ -11,6 +11,7 @@ body {
 	border: 4px double #000;
 	background-color: #ffffff;}
 #logo {
+	font-size: 80%;
 	width: 640px;
 	margin: 10px auto 25px auto;
 	color: #5C5C5C;}
