@@ -17,6 +17,16 @@ body {
 	color: #5C5C5C;}
 #navigation {
 	font-size: 90%;}
+#horizonatalrule {
+	width: 680px;
+	padding: 3px;
+	margin: 0px auto 0px auto;
+	border-bottom: 1px solid #000;
+	text-align: center;
+}
+#gallery {
+	text-align: center;
+}
 ul {
 	width: 570px;
 	padding: 15px;
@@ -42,6 +52,11 @@ a {
 	text-transform: uppercase;
 	text-decoration: none;
 	padding: 6px 18px 5px 18px;}
+img {
+	margin-bottom: 5px;
+	border: 1px solid #000;
+}	
 a:hover, a.on {
 	color: #cc3333;
-	background-color: #ffffff;}
+	background-color: #ffffff;
+    }
